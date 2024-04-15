@@ -12,9 +12,6 @@ The following methods were employed in the analysis:
 
 3. **ARIMA Multiplicative Model**: This model was chosen to account for the complex interactions between the seasonal, trend, and random effects in the data.
 
-## Results
-
-The analysis revealed a clear linear increasing trend and seasonal patterns in the hydropower generation data. Both the Holt-Winters and ARIMA models were used for forecasting, with the Holt-Winters model showing better performance in terms of prediction accuracy.
 
 ## Code Structure
 
